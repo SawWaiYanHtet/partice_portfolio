@@ -307,3 +307,6 @@ footer p:nth-child(2){
     transition: .4s;
     cursor: pointer;
 }
+.end{
+    color: white;
+}
